@@ -1,5 +1,0 @@
-{{#user}} 
-Name: Kartavya Arya 
-Skills: HTML, CSS, JS, Bootstrap, Next.js, MySQL, PHP, C++, Java, C, Python 
-Email: kartavyaarya111@gmail.com 
-{{/user}}
